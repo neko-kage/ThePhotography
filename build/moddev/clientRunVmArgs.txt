@@ -10,9 +10,9 @@ java.base/java.lang.invoke=cpw.mods.securejarhandler
 java.base/sun.security.util=cpw.mods.securejarhandler
 --add-exports
 jdk.naming.dns/com.sun.jndi.dns=java.naming
-"-Dlog4j2.configurationFile=D:\\System Folders\\Desktop\\ThePhotography-0.1.0\\build\\moddev\\clientLog4j2.xml"
+"-Dlog4j2.configurationFile=D:\\System Folders\\Desktop\\ThePhotography-0.1.0\\ThePhotography\\build\\moddev\\clientLog4j2.xml"
 -Djava.net.preferIPv6Addresses=system
 -DignoreList=mixinextras-neoforge-0.5.3.jar,client-extra,neoforge-
-"-DlegacyClassPath.file=D:\\System Folders\\Desktop\\ThePhotography-0.1.0\\build\\moddev\\clientLegacyClasspath.txt"
+"-DlegacyClassPath.file=D:\\System Folders\\Desktop\\ThePhotography-0.1.0\\ThePhotography\\build\\moddev\\clientLegacyClasspath.txt"
 -Dneoforge.enableGameTest=true
 -Dneoforge.enabledGameTestNamespaces=the-photography

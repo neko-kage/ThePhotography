@@ -64,4 +64,4 @@ C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9
 C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.10.1\7bb9d450e8d4cbf9f9e04096c44bbfe7fba80b15\asm-util-9.10.1.jar
 C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.10.1\ada2141c0cc52ee8f5c48cd5fa4ce0e794f22236\asm-9.10.1.jar
 C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\2.0.9\7cf2726fdcfbc8610f9a71fb3ed639871f315340\slf4j-api-2.0.9.jar
-D:\System Folders\Desktop\ThePhotography-0.1.0\build\moddev\artifacts\neoforge-21.1.249-client-extra-aka-minecraft-resources.jar
+D:\System Folders\Desktop\ThePhotography-0.1.0\ThePhotography\build\moddev\artifacts\neoforge-21.1.249-client-extra-aka-minecraft-resources.jar
